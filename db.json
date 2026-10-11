@@ -1,0 +1,97 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Customer Experience Associate",
+      "department": "Customer Service",
+      "location": "Hybrid, Vaughan, Ontario",
+      "type": "Full-time",
+      "description": "Help customers with orders, product questions, and shopping experiences.",
+      "roleStatus": "This position is open due to an existing role becoming vacant.",
+      "qualifications": [
+      "Excellent written and verbal communication skills.",
+      "Strong customer service and problem-solving abilities.",
+      "Ability to handle customer inquiries professionally and empathetically.",
+      "Comfortable using email, and customer service software.",
+      "Strong attention to detail when handling orders and customer information.",
+      "Ability to prioritize tasks and manage multiple inquiries.",
+      "Proficiency with common office and online collaboration tools."
+      ],
+      "compensation": "The expected compensation range for this role is $58,000 to $68,000 annually. Placement within the range will be based on demonstrated skills, relevant experience, and internal equity considerations.",
+      "useOfAIInHiring": "AI-enabled tools may be used to support parts of the recruitment process, such as application screening or interview scheduling. All hiring decisions are made by human reviewers.",
+      "accessibilityAndFairHiringStatement": "We are committed to fair, equitable, and accessible hiring practices. Accommodations are available throughout the recruitment process upon request.",
+      "recordRetentionNotice": "In accordance with Ontario legislation, job postings and application materials are retained for a minimum of three years.",
+      "active": true
+    },
+    {
+      "id": "2",
+      "title": "Ecommerce Operations Coordinator",
+      "department": "Operations",
+      "location": "Hybrid, Mississaugua, Ontario",
+      "type": "Full-time",
+      "description": "Support product listings, inventory updates, and order operations.",
+      "roleStatus": "This position is open due to an existing role becoming vacant.",
+      "qualifications": [
+      "Strong organizational and project coordination skills.",
+      "Strong attention to detail when updating product descriptions, prices, and stock information.",
+      "Ability to investigate order issues and coordinate resolutions.",
+      "Proficiency with spreadsheets and common business software.",
+      "Ability to analyze operational data and identify process improvements.",
+      "Excellent written communication and cross-functional collaboration skills.",
+      "Experience with order management or inventory systems is an asset."
+      ],
+      "compensation": "The expected compensation range for this role is $70,000 to $80,000 annually. Placement within the range will be based on demonstrated skills, relevant experience, and internal equity considerations.",
+      "useOfAIInHiring": "AI-enabled tools may be used to support parts of the recruitment process, such as application screening or interview scheduling. All hiring decisions are made by human reviewers.",
+      "accessibilityAndFairHiringStatement": "We are committed to fair, equitable, and accessible hiring practices. Accommodations are available throughout the recruitment process upon request.",
+      "recordRetentionNotice": "In accordance with Ontario legislation, job postings and application materials are retained for a minimum of three years.",
+      "active": true
+    },
+    {
+      "id": "3",
+      "title": "Frontend Developer",
+      "department": "Technology",
+      "location": "Hybrid, Vaughan, Ontario",
+      "type": "Full-time",
+      "description": "Build accessible shopping experiences using Next.js and Tailwind CSS.",
+      "roleStatus": "This position is open due to an existing role becoming vacant.",
+      "qualifications": [
+        "Proficiency in JavaScript and TypeScript.",
+        "Experience building web interfaces with React.",
+        "Familiarity with Next.js and its App Router.",
+        "Experience with HTML, CSS, and responsive web design.",
+        "Working knowledge of Tailwind CSS or a similar styling framework.",
+        "Understanding of REST APIs, asynchronous requests, and JSON data.",
+        "Familiarity with Git and collaborative software development workflows.",
+        "Understanding of accessibility, semantic HTML, and web performance.",
+        "Ability to debug issues and write maintainable, reusable components."
+      ],
+      "compensation": "The expected compensation range for this role is $65,000 to $75,000 annually. Placement within the range will be based on demonstrated skills, relevant experience, and internal equity considerations.",
+      "useOfAIInHiring": "AI-enabled tools may be used to support parts of the recruitment process, such as application screening or interview scheduling. All hiring decisions are made by human reviewers.",
+      "accessibilityAndFairHiringStatement": "We are committed to fair, equitable, and accessible hiring practices. Accommodations are available throughout the recruitment process upon request.",
+      "recordRetentionNotice": "In accordance with Ontario legislation, job postings and application materials are retained for a minimum of three years.",
+      "active": true
+    },
+    {
+      "id": "4",
+      "title": "Digital Marketing Specialist",
+      "department": "Marketing",
+      "location": "Hybrid, Mississaugua, Ontario",
+      "type": "Full-time",
+      "description": "Help grow our online store through content, campaigns, and customer insights.",
+      "roleStatus": "This position is open due to an existing role becoming vacant.",
+      "qualifications": [
+      "Experience planning and executing digital marketing campaigns.",
+      "Familiarity with social media marketing and content calendars.",
+      "Ability to analyze website traffic, campaign results, and conversion metrics.",
+      "Strong writing, editing, and communication skills.",
+      "Ability to coordinate campaigns across multiple channels.",
+      "Creative problem-solving skills and attention to detail."
+      ],
+      "compensation": "The expected compensation range for this role is $60,000 to $70,000 annually. Placement within the range will be based on demonstrated skills, relevant experience, and internal equity considerations.",
+      "useOfAIInHiring": "AI-enabled tools may be used to support parts of the recruitment process, such as application screening or interview scheduling. All hiring decisions are made by human reviewers.",
+      "accessibilityAndFairHiringStatement": "We are committed to fair, equitable, and accessible hiring practices. Accommodations are available throughout the recruitment process upon request.",
+      "recordRetentionNotice": "In accordance with Ontario legislation, job postings and application materials are retained for a minimum of three years.",
+      "active": true
+    }
+  ]
+}
